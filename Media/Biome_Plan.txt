@@ -1,0 +1,19 @@
+Rainforest: 	Trees (varied), Booshes, Rare flowers
+
+Savana Fields: 	Lots of grass, Acacia trees, Boulders
+
+Desert:		Cactus, Tumbleweed, Skulls?, Quicksand
+
+Swamp:		Lotus, Flowers	
+
+Fields:		Grass, Flowers, Rocks
+
+Woods:		Trees, Flowers, Rocks, Grass, Tree-Stumps
+	
+Dry Plains:	Rocks, Dried Mud, Dead Trees
+
+Snowy Fields:	Rare Snowy Trees, Icy rivers & lakes, Rare grass, Boulders
+
+Snowy Woods:	Lots of snowy trees, Grass, Boulders
+
+Tundra:		Snow and Rocks, very rare grass
